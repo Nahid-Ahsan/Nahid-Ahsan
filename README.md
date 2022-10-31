@@ -1,4 +1,6 @@
-![logo](https://github.com/Nahid-Ahsan/Nahid-Ahsan/blob/main/Deep%20Learning.png)
+
+<p align="left"> <img src="https://github.com/Nahid-Ahsan/Nahid-Ahsan/blob/main/Deep%20Learning.png" width = "2000px"/> </p>
+
 <h1 align="center">Hi 👋, I'm Md. Nahid Ahsan</h1>
 <h3 align="center">A passionate Deep Learning Researcher from Bangladesh.</h3>
 
